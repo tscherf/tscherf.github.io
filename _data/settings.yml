@@ -8,7 +8,6 @@ google-ID: ''
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
 - {name: 'Talks', path: 'menu', url: 'talks.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -27,6 +26,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+#related_posts: 'You may also enjoy:'
 
 post_date_prefix: 'Written on'

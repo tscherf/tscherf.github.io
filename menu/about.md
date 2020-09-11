@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 HI. I work at [Red Hat](https://www.redhat.com/en) as Sr.Principal Software

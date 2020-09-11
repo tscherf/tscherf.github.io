@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Talks
-permalink: /talks/
 ---
 
 Here is a (probably incomplete) list of topics I've presented at various
