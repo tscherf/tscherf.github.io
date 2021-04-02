@@ -30,6 +30,12 @@ layout: default
   {% endif %}
 </span>
 
+<small>
+    {% for tag in page.tags %}
+    <a href="https://tscherf.github.io/menu/tags.html#{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</small>
+
 {% include social-sharing.html %}
 
 {% include related-posts.html %}

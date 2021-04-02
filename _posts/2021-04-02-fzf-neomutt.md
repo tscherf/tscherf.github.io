@@ -2,7 +2,7 @@
 layout: post
 title: "How I use fzf with NeoMutt"
 date: 2021-04-02
-tags: neomutt, fzf
+tags: [neomutt, fzf]
 ---
 
 I use [NeoMutt](https://neomutt.org/) to read my email. And I use it a lot.
@@ -30,8 +30,8 @@ that actually brought me to the idea why not combine fzf with NeoMutt.
 
 I download all my mail from an IMAP server using
 [mbsync](https://isync.sourceforge.io/mbsync.html) and then store it in a
-local Maildir folder. To generate a list of mailboxes that I can pipe as input
-into fzf, I use the following script:
+local Maildir folder. I use the following script to generate a list of
+all the mailboxes that I can pipe as input into fzf:
 
 <script src="https://gist.github.com/tscherf/d46b822c60c60c40a2544233802dcac5.js?file=mutt_fzffolder.md"></script>
 
