@@ -1,5 +1,11 @@
 <head>
 
+  <!-- Google Analytics -->
+  {% include google-analytics.html %}
+
+  <!-- Use Jekyll SEO plugin -->
+  {% seo %}
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} | {{ site.description }}
@@ -33,10 +39,5 @@
       });
   </script>
 
-  <!-- Google Analytics -->
-  {% include google-analytics.html %}
-
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
 
 </head>

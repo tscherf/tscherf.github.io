@@ -18,11 +18,12 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+google_analytics:    'G-PXEW6VGQGY'
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'tuxgeek blog'
-description:	       ''
-author:              'Thorsten Scherf'
+title:              'tuxgeek blog'
+description:        ''
+author:             'Thorsten Scherf'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
