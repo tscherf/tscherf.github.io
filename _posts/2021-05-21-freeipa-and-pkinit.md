@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PKINIT with IPA and user certificates"
-date: 2021-04-10
+date: 2021-05-21
 tags: [ipa, kerberos, pkinit]
 ---
 
