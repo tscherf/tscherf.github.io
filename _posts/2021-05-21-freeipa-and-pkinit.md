@@ -5,6 +5,9 @@ date: 2021-05-21
 tags: [ipa, kerberos, pkinit]
 ---
 
+*The following article was inspired by a [question on
+StackOverflow](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_identity_management/conf-certmap-idm_configuring-and-managing-idm).*
+
 In Kerberos world many different preauthentication mechanism exist.
 [PKINIT](https://datatracker.ietf.org/doc/html/rfc4556) is one of those
 mechanism. It basically uses X.509 certificates to authenticate the Kerberos
