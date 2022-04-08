@@ -3,8 +3,8 @@ layout: page
 title: Talks
 ---
 
-Here is a (probably incomplete) list of topics I've presented at various
-conferences over the last couple of years.
+Here is a incomplete list of topics I've presented at various conferences over
+the last couple of years.
 
 - [Session Recording](https://www.heinlein-support.de/slac/2019/vortrag/session-recording)  
 Secure Linux Administration Conference (SLAC), 27 May 2019, Berlin/Germany
