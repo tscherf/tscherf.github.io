@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 google_analytics:    'G-PXEW6VGQGY'
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:              'tuxgeek blog'
+title:              'Thorsten Scherf'
 description:        ''
 author:             'Thorsten Scherf'
 
