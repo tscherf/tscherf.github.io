@@ -3,8 +3,11 @@ layout: page
 title: Talks
 ---
 
-Here is a incomplete list of topics I've presented at various conferences over
-the last couple of years.
+Here is an incomplete list of topics I've presented at various conferences over
+the last years.
+
+- [FreeIPA and external Identity Providers](https://www.heinlein-support.de/slac/2023/vortrag/freeipa-und-anbindung-externe-identity-provider)  
+Secure Linux Administration Conference (SLAC), 23 May 2023, Berlin/Germany
 
 - [Session Recording](https://www.heinlein-support.de/slac/2019/vortrag/session-recording)  
 Secure Linux Administration Conference (SLAC), 27 May 2019, Berlin/Germany
