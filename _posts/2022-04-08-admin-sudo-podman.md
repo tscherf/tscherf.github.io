@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New articles from ADMIN magazine available online"
+title: "Remote sudo and podman systemd integration articles in ADMIN magazine"
 date: 2022-04-08
 tags: [articles]
 ---
@@ -14,4 +14,3 @@ computer](https://www.admin-magazine.com/Archive/2021/63/Save-sudo-logs-on-a-rem
 systemd](https://www.admin-magazine.com/Archive/2021/62/Integrating-Podman-and-systemd)
 
 Happy reading.
-

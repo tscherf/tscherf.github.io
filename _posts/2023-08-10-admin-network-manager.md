@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New article from ADMIN magazine available online"
+title: "NetworkManager updates article in ADMIN magazine"
 date: 2023-08-10
 tags: [articles]
 ---
