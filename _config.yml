@@ -23,7 +23,7 @@ google_analytics:    'G-PXEW6VGQGY'
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:              'Thorsten Scherf'
 description: '<br>Identity Management & Platform Security'
-#author:             'Thorsten Scherf'
+author:             'Thorsten Scherf'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
