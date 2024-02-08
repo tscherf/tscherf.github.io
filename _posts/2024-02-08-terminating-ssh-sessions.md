@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automatically terminate OpenSSH sessions in ADMIN magazine"
+title: "Automatically terminate OpenSSH sessions article in ADMIN magazine"
 date: 2024-02-08
 tags: [articles]
 ---
