@@ -48,7 +48,7 @@ Secure Linux Administration Conference (SLAC), 1 December 2011, Berlin/Germany
 - [SELinux - Next Generation](https://www.heinlein-support.de/web/akademie/slac-2007/slac07-selinux-next-generation/)
 Secure Linux Administration Conference (SLAC), 7 December 2007, Berlin/Germany
 
-- [SELinux - Security on Kernel Level](https://people.redhat.com/tscherf/talks/osmb2007_selinux.pdf/)
+- [SELinux - Security on Kernel Level](https://people.redhat.com/tscherf/talks/osmb2007_selinux.pdf)
 OpenSource Meets Business (OSMB), Januar 2007, Nürnberg/Germany
 
 - [SELinux - Security on Kernel Level](http://www.heinlein-support.de/web/akademie/slac-selinux)  
@@ -56,4 +56,3 @@ Secure Linux Administration Conference (SLAC), 7 December 2006, Berlin/Germany
 
 - [Central user authentication with NIS and Kerberos](https://guug.de/veranstaltungen/ffg2004/abstracts.html#F13)  
 Fruehjahrsfachgespraech (FFG), 12 March 2004, Bochum/Germany
-
