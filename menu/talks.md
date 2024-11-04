@@ -6,7 +6,7 @@ title: Talks
 Here is an incomplete list of topics I've presented at various conferences over
 the last years.
 
-- [Using FIDO2 tokens to authenticate users on a Linux System](https://www.heinlein-support.de/slac/2024/vortrag/mit-fido2-tokens-zentral-verwaltete-benutzer-einem-linux-system-anmelden)<br>
+- [Using FIDO2 tokens to authenticate centrally managed users on Linux Systems](https://www.heinlein-support.de/slac/2024/vortrag/mit-fido2-tokens-zentral-verwaltete-benutzer-einem-linux-system-anmelden)<br>
 Secure Linux Administration Conference (SLAC), 07 May 2024, Berlin/Germany
 
 - [FreeIPA and external Identity Providers](https://www.heinlein-support.de/slac/2023/vortrag/freeipa-und-anbindung-externe-identity-provider)  
