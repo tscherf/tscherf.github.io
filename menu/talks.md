@@ -6,28 +6,28 @@ title: Talks
 Here is an incomplete list of topics I've presented at various conferences over
 the last years.
 
-- [Using FIDO2 tokens to authenticate centrally managed users on Linux Systems](https://www.heinlein-support.de/slac/2024/vortrag/mit-fido2-tokens-zentral-verwaltete-benutzer-einem-linux-system-anmelden)<br>
+- [Using FIDO2 tokens to authenticate centrally managed users on Linux Systems](https://www.heinlein-support.de/slac/2024/vortrag/mit-fido2-tokens-zentral-verwaltete-benutzer-einem-linux-system-anmelden)
 Secure Linux Administration Conference (SLAC), 07 May 2024, Berlin/Germany
 
-- [FreeIPA and external Identity Providers](https://www.heinlein-support.de/slac/2023/vortrag/freeipa-und-anbindung-externe-identity-provider)  
+- [FreeIPA and external Identity Providers](https://www.heinlein-support.de/sites/default/files/media/documents/2023-05/SLAC2023_ipa-external-idp_Thorsten_Scherf.pdf)  
 Secure Linux Administration Conference (SLAC), 23 May 2023, Berlin/Germany
 
-- [Session Recording](https://www.heinlein-support.de/slac/2019/vortrag/session-recording)  
+- [Session Recording](https://www.heinlein-support.de/sites/default/files/SLAC_2019_Session%20Recording.pdf)  
 Secure Linux Administration Conference (SLAC), 27 May 2019, Berlin/Germany
 
-- [Securing Automated Decryption](https://redhat.slides.com/tscherf/sad-2?token=j8J2oML7)  
+- [Securing Automated Decryption](https://redhat.slides.com/tscherf/sad-2?token=j8J2oML7)
 Fruehjahrsfachgespraech (FFG), 5 April 2019, Karlsruhe/Germany
 
 - [FreeIPA workshop](https://redhat.slides.com/tscherf/deck?token=EItwZ45W)  
 DevConf.IN, 30 July 2018, Bengaluru/India
 
-- [Network-Bound DiskEncryption](https://www.heinlein-support.de/slac/2018/vortrag/network-bound-disk-encryption)  
+- [Network-Bound DiskEncryption](https://www.heinlein-support.de/sites/default/files/SLAC_2018_Network-Bound-Disk-Encryption.pdf)  
 Secure Linux Administration Conference (SLAC), 7 May 2018, Berlin/Germany
 
-- [Integration of Linux-Clients in Active Directory environments](https://www.heinlein-support.de/slac/2017/vortrag/linux-clients-in-windows-ad)  
+- [Integration of Linux-Clients in Active Directory environments](https://www.heinlein-support.de/sites/default/files/media/documents/2021-12/slac2017_Integrating-Linux-Systems-With-Active-Directory-Using-OpenSource-Tools.pdf)  
 Secure Linux Administration Conference (SLAC), 22 May 2017, Berlin/Germany
 
-- [X509 certificate management with FreeIPA](https://www.heinlein-support.de/slac/2016/vortrag/x509-zertifikats-management-mit-freeipa)  
+- [X509 certificate management with FreeIPA](https://www.heinlein-support.de/sites/default/files/slac16_x509_certificates_freeipa.pdf)  
 Secure Linux Administration Conference (SLAC), 15 June 2016, Berlin/Germany
 
 - [FreeIPA workshop]()  
@@ -36,10 +36,10 @@ DevConf.CZ, January 2016, Brno/Czech Republic
 - [Identity Mangement with FreeIPA](http://programm.openrheinruhr.de/2015/events/368.de.html)  
 OpenRheinRuhr, 07 November 2015, Oberhausen/Germany
 
-- [Kubernetes: Management for Docker](https://www.heinlein-support.de/slac/2015/vortrag/kubernetes-management-fuer-docker)  
+- [Kubernetes: Management for Docker](https://www.heinlein-support.de/sites/default/files/kubernetes-management-fuer-docker.pdf)  
 Secure Linux Administration Conference (SLAC), 24 June 2015, Berlin/Germany
 
-- [Identity-Management with FreeIPA](https://www.heinlein-support.de/slac/2014/vortrag/identity-management-mit-freeipa)  
+- [Identity-Management with FreeIPA](https://www.heinlein-support.de/sites/default/files/identity_management_mit_freeipa.pdf)  
 Secure Linux Administration Conference (SLAC), 14 June 2014, Berlin/Germany
 
 - [Compliance Management with OpenSCAP](Compliance Management mit OpenSCAP)  
