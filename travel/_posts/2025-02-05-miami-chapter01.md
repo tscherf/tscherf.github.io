@@ -101,5 +101,3 @@ application manually reviewed instead of instantly approved?
 To be continued…
 
 
-
-
