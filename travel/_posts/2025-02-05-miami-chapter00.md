@@ -1,32 +1,32 @@
 ---
 layout: post
-title: "Miami - Chapter 00"
+title: "Miami/FL - Transatlantic NCL - Chapter 00"
 date: 2025-02-05
 category: travel
-tags: travel miami
+tags: travel miami ncl
 ---
 
 The (long-haul) flight year 2025 kicks off for me with a trip to Miami. In fact,
 several trips to Miami are planned this year, but I'll start with a C Award and
 the following flights:
 
-* 05.02 DUS-ZRH with LX1016
-* 05.02 ZRH-MIA with LX64
+* 05 Feb DUS-ZRH with LX1016
+* 05 Feb ZRH-MIA with LX64
 
 Yes, this is a one-way ticket. And no, I'm not following through on my "threat"
 to emigrate to the USA. My return to Europe will be aboard the NCL Breakaway,
 sailing from Miami to Southampton across the Atlantic in 12 days.
 
-The journey begins in Miami on 07.02. After eight long days at sea, I’m
-scheduled to arrive in Ponta Delgada, Azores, on 15.02, where I'll take my only
-shore excursion on this cruise. Arrival in Southampton is planned for 19.02.
+The journey begins in Miami on 07 Feb. After eight long days at sea, I’m
+scheduled to arrive in Ponta Delgada, Azores, on 15 Feb, where I'll take my only
+shore excursion on this cruise. Arrival in Southampton is planned for 19 Feb.
 
 In Southampton, after a quick detour to Stonehenge, I'll head to London, where
 I’ll take a late afternoon flight from LHR to Düsseldorf on BA0932. My arrival
-in DUS is scheduled for 19:45 on 19.02.
+in DUS is scheduled for 19:45 on 19 Feb.
 
 In Miami, I’ve booked a one-night stay at the Hampton Inn Airport East for my
-arrival day. On 06.02, I’ll move to the Hilton Downtown. Unfortunately, the
+arrival day. On 06 Feb, I’ll move to the Hilton Downtown. Unfortunately, the
 Hilton was fully booked the night before, and even though I have a DIA booking
 guarantee, I wasn’t in the mood to argue with the hotline about the outrageous
 prices they charge when using that benefit.
@@ -48,7 +48,7 @@ embarkation and onboard.
 
 The day before departure, I suddenly felt pain in a tooth that was already
 scheduled for treatment. Of all times, it had to start hurting right before my
-trip. So, on 04.02 in the afternoon, I went to my dentist, who gave me the bad
+trip. So, on 04 Feb in the afternoon, I went to my dentist, who gave me the bad
 news: I needed an urgent root canal treatment. At that moment, I started
 thinking about all the cancellations I’d have to make—I couldn’t imagine taking
 a long-haul flight just 16 hours after a root canal treatment.
