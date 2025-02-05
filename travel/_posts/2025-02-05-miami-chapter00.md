@@ -23,6 +23,8 @@ The journey begins in Miami on 07 Feb. After eight long days at sea, I’m
 scheduled to arrive in Ponta Delgada, Azores, on 15 Feb, where I'll take my only
 shore excursion on this cruise. Arrival in Southampton is planned for 19 Feb.
 
+![Transatlantic route from Miami to Southampton](/assets/images/2025-02/route.png)
+
 In Southampton, after a quick detour to Stonehenge, I'll head to London, where
 I’ll take a late afternoon flight from LHR to Düsseldorf on BA0932. My arrival
 in DUS is scheduled for 19:45 on 19 Feb.
