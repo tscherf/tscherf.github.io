@@ -6,6 +6,8 @@ category: travel
 tags: travel miami ncl
 ---
 
+Chapter 00
+
 The (long-haul) flight year 2025 kicks off for me with a trip to Miami. In fact,
 several trips to Miami are planned this year, but I'll start with a C Award and
 the following flights:
@@ -45,6 +47,8 @@ But as a solo traveler, a HAVEN suite doesn’t make sense for me, so I jumped o
 a deal for a Panorama View cabin. Yes, it’s like downgrading from First Class to
 Economy, but we’ll see how it goes. As an NCL Platinum, I still get perks for
 embarkation and onboard.
+
+A Last-Minute Dental Emergency
 
 The day before departure, I suddenly felt pain in a tooth that was already
 scheduled for treatment. Of all times, it had to start hurting right before my
