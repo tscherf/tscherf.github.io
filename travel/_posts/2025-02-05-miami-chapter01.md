@@ -12,6 +12,8 @@ It’s February 5th, 1:00 PM, and I’m sitting in the SEN Lounge at Düsseldorf
 Airport. If you read Chapter 0, you know that LX1016 to ZRH took off over three
 hours ago. So what am I still doing in DUS?
 
+![Senator lounge at DUS airport](/assets/images/2025-02/DUS-SEN.png)
+
 No, the train ride went smoothly—I even arrived early at the airport station. At
 8:30 AM sharp, I was at check-in, ready to drop off my luggage. The agent at the
 counter asked for my ESTA, which is valid until the end of February 2025. No
@@ -91,11 +93,12 @@ Since I had packed plenty of work for the trip (I needed something to do on all
 those long sea days), I decided to stay at DUS and make the most of my SEN
 lounge access while getting some work done. 🤣
 
+![Some coffee & cake at the SEN lounge in DUS](/assets/images/2025-02/cake-lounge.png)
+
 One thing still bothered me—why was my ESTA revoked? And why was my new
 application manually reviewed instead of instantly approved?
 
 To be continued…
-
 
 
 
