@@ -23,8 +23,6 @@ But then… she couldn’t issue my ticket. She asked a colleague for help, and 
 was redirected to another counter. Then came the bad news: my ESTA had been
 revoked and was no longer valid. No ESTA, no ticket.
 
-The Next Problem
-
 Great, just one day after my root canal drama, another problem to deal with. But
 I stayed optimistic—I couldn’t understand why my ESTA was revoked, but since I
 also have Global Entry, I figured, no big deal—I’ll just apply for a new ESTA.
@@ -42,8 +40,6 @@ Review status was practically burned into my retina.
 
 Nothing changed. The flight closed, and I had no chance of making it to ZRH.
 
-A Last-Minute Approval—Too Late
-
 Annoyed, I headed toward Starbucks for a latte and to call the SEN hotline.
 While riding the long escalator upstairs, I checked my email one more time.
 
@@ -60,8 +56,6 @@ me there was still a way to get to MIA on the same day via MUC and ORD, but he
 couldn’t rebook me because ESTA issues are the passenger’s responsibility. Fair
 enough, but since I had never received any notice that my ESTA was revoked, I
 had hoped for some flexibility from LH. No luck.
-
-The Battle with Lufthansa Customer Service
 
 Calling the SEN hotline only increased my frustration. The first agent was a
 disaster—he gave me completely wrong information, so I just ended the call after
