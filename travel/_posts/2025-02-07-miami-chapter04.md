@@ -8,12 +8,13 @@ tags: travel miami ncl
 
 Chapter 04
 
-(Pictures coming later)
-
 Boarding was delayed by about 15 minutes due to the late arrival of HB-JNB. The
 business class was fully booked, as was the first class, and I was glad to have
 secured a seat in the small business cabin with only 12 seats at such short
 notice.
+
+![Business Seats Row 4](/assets/images/2025-02/06/1738932890437.jpeg)
+![Business Seats Row 4](/assets/images/2025-02/06/1738932890473.jpeg)
 
 In the two-row section of the small business cabin, I found the storage shelf
 above the monitors and the drawer below them to be very practical. However, the
@@ -33,8 +34,14 @@ time at 1:00 PM, and by 1:11 PM, we were in the air.
 As is typical with Swiss, the service was excellent, and with the second round
 of drinks, meal orders were taken right away.
 
+![Menu](/assets/images/2025-02/06/1738932890515.jpeg)
+![Menu](/assets/images/2025-02/06/1738932890561.jpeg)
+![Menu](/assets/images/2025-02/06/1738932890561.jpeg)
+
 I decided on the salad and the mushroom ragout. However, I forgot to take a
 photo of the latter. And because of the ibuprofen, I stuck to water and Coke. 🤣
+
+![Coke](/assets/images/2025-02/06/1738932890593.jpeg)
 
 After dinner, I watched a series on the Apple Vision Pro for about an hour and
 then went straight to sleep, actually managing to sleep until two hours before
