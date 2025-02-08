@@ -36,12 +36,14 @@ of drinks, meal orders were taken right away.
 
 ![Menu](/assets/images/2025-02/06/1738932890515.jpeg)
 ![Menu](/assets/images/2025-02/06/1738932890561.jpeg)
-![Menu](/assets/images/2025-02/06/1738932890561.jpeg)
+![Menu](/assets/images/2025-02/06//1738932890593.jpeg)
 
 I decided on the salad and the mushroom ragout. However, I forgot to take a
 photo of the latter. And because of the ibuprofen, I stuck to water and Coke. 🤣
 
-![Coke](/assets/images/2025-02/06/1738932890593.jpeg)
+![Coke](/assets/images/2025-02/06/IMG_1027.jpeg)
+![Lunch](/assets/images/2025-02/06/1738932890634.jpeg)
+![Lunch](/assets/images/2025-02/06/1738932890673.jpeg)
 
 After dinner, I watched a series on the Apple Vision Pro for about an hour and
 then went straight to sleep, actually managing to sleep until two hours before
@@ -53,6 +55,8 @@ downtown Miami, where I had booked a one-night stay at the Hilton. Given the
 time of day, the ride into downtown took quite a while, so I didn’t arrive at
 the Hilton until around 6:30 PM.
 
+![Hilton Miami Downtown](/assets/images/2025-02/06/1738932890720.jpeg)
+
 The entrance is on Floor 0, from where an elevator takes you up to the lobby and
 check-in area. Another elevator then takes you to the guest floors.
 Unfortunately, the Hilton Downtown no longer has an Executive Lounge, which is a
@@ -61,8 +65,19 @@ options for using the F&B credit as a Diamond member. 😂 The restaurant is
 located right next to check-in, making it a rather busy and hectic spot. The
 bistro, on the other hand, has direct access to the hotel’s pool.
 
+![Pool](/assets/images/2025-02/06/1738932890755.jpeg)
+![1601 Lounge Restaurant](/assets/images/2025-02/06/1738932890800.jpeg)
+![1601 Lounge Restaurant](/assets/images/2025-02/06/1738932890850.jpeg)
+![Lobby](/assets/images/2025-02/06/1738932890902.jpeg)
+![](/assets/images/2025-02/06/)
+
 I had booked a King Room with a Bay View using points and was upgraded to a King
 Junior Suite with a Bay View on the 12th floor.
+
+![King Junior Suite](/assets/images/2025-02/06/1738932890934.jpeg)
+![King Junior Suite](/assets/images/2025-02/06/1738932892195.jpeg)
+![King Junior Suite View](/assets/images/2025-02/06/1738932892236.jpeg)
+![King Junior Suite Bathroom](/assets/images/2025-02/06/1738932892266.jpeg)
 
 The hotel was completely renovated in 2018, but honestly, I’m not sure if they
 forgot about the hallways. They looked like they hadn’t seen a fresh coat of
@@ -70,6 +85,9 @@ paint in 20 years. Maybe it just seemed worse because the hallways were
 incredibly dark — very little lighting and brown-toned wallpaper. A lighter
 color would probably make everything feel much more inviting. Unfortunately, the
 photos don’t quite capture how gloomy it felt.
+
+![Hallway](/assets/images/2025-02/06/1738932892318.jpeg)
+![Hallway](/assets/images/2025-02/06/1738932892355.jpeg)
 
 The lobby and rooms are okay-ish, but they already look somewhat worn again. The
 shower in the bathroom was broken, the shower gel dispenser was empty, and there
@@ -83,9 +101,15 @@ wanted to at least take a short trip to Bayside Marketplace in the evening to
 soak up the atmosphere. I grabbed a bite at Ben’s Pizza first, followed by a
 Coke at Margaritaville, right next to the Miami Sky View.
 
+![Bayside Marketplace](/assets/images/2025-02/06/1738932892402.jpeg)
+![Bayside Marketplace](/assets/images/2025-02/06/1738932892457.jpeg)
+![Bayside Marketplace](/assets/images/2025-02/06/1738932892504.jpeg)
+
 After a short stroll through Bayfront Park and past the Intercontinental—where
 we used to spend our time in Miami—it was time to take the Metromover back to
 the Hilton.
+
+![IC Miami](/assets/images/2025-02/06/1738932892529.jpeg)
 
 By 10:30 PM, I was in bed, but as always on the first night in the U.S., my body
 clock decided at 5 AM that it was time to wake up. So, I started the day quite
