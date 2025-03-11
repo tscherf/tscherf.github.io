@@ -6,7 +6,7 @@ category: travel
 tags: travel miami ncl
 ---
 
-Chapter 6
+Chapter 06
 
 After enjoying five days of sunshine with temperatures around 26°C, Tuesday, Feb
 11, brought the first bout of bad weather—thick fog, temperatures around 14°C,

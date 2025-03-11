@@ -6,7 +6,7 @@ category: travel
 tags: travel miami ncl
 ---
 
-Chapter 8
+Chapter 08
 
 We arrived at the port of Southampton ahead of schedule at around 06:00.
 

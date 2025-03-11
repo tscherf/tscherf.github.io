@@ -6,7 +6,7 @@ category: travel
 tags: travel miami ncl
 ---
 
-Chapter 7
+Chapter 07
 
 Twelve days on the Atlantic are now behind me. We are currently entering the
 English Channel and expect to arrive in Southampton on Wednesday morning at 7
