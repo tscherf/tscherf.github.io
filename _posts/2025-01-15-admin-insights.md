@@ -2,6 +2,7 @@
 layout: post
 title: "Monitor Linux with Red Hat Insights article"
 date: 2025-01-15
+categories: [Tech, Articles]
 tags: [articles]
 ---
 

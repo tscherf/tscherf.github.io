@@ -2,6 +2,7 @@
 layout: post
 title: "How I use fzf with NeoMutt"
 date: 2021-04-02
+categories: [Tech, Tutorials]
 tags: [neomutt, fzf]
 ---
 

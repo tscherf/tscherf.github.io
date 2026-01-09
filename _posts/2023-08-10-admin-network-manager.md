@@ -2,6 +2,7 @@
 layout: post
 title: "NetworkManager updates article in ADMIN magazine"
 date: 2023-08-10
+categories: [Tech, Articles]
 tags: [articles]
 ---
 

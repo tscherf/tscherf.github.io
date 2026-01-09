@@ -2,6 +2,7 @@
 layout: post
 title: "Remote sudo and podman systemd integration articles in ADMIN magazine"
 date: 2022-04-08
+categories: [Tech, Articles]
 tags: [articles]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "OpenIAM article in ADMIN magazine"
 date: 2021-04-10
+categories: [Tech, Articles]
 tags: [articles, iam]
 ---
 

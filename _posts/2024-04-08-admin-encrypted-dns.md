@@ -2,6 +2,7 @@
 layout: post
 title: "Encrypted DNS with DoT article in ADMIN magazine"
 date: 2024-04-08
+categories: [Tech, Articles]
 tags: [articles]
 ---
 

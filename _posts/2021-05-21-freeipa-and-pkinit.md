@@ -2,7 +2,8 @@
 layout: post
 title: "PKINIT with IPA and user certificates"
 date: 2021-05-21
-tags: [ipa, kerberos, pkinit]
+categories: [Tech, Tutorials]
+, Tutorialstags: [ipa, kerberos, pkinit]
 ---
 
 *The following article was inspired by a [question on

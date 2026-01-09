@@ -2,6 +2,7 @@
 layout: post
 title: "Improved logging in Samba Winbind"
 date: 2025-01-15
+categories: [Tech, Articles]
 tags: [articles]
 ---
 
