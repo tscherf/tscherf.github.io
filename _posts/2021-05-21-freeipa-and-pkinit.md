@@ -3,11 +3,11 @@ layout: post
 title: "PKINIT with IPA and user certificates"
 date: 2021-05-21
 categories: [Tech, Tutorials]
-, Tutorialstags: [ipa, kerberos, pkinit]
+tags: [ipa, kerberos, pkinit]
 ---
 
-*The following article was inspired by a [question on
-StackOverflow](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_identity_management/conf-certmap-idm_configuring-and-managing-idm).*
+*This tutorial was inspired by a [question posted on
+Stack Ovwrflow](https://stackoverflow.com/questions/66457379/kerberos-pkinit-no-matching-entry-found-preauth-pkinit-verify-failure-certi).
 
 In Kerberos world many different preauthentication mechanism exist.
 [PKINIT](https://datatracker.ietf.org/doc/html/rfc4556) is one of those
