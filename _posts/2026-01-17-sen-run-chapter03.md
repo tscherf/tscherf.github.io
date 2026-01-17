@@ -30,8 +30,14 @@ Of course, the tickets hadn’t been issued this morning. “Okay,” I thought,
 “give ticketing a bit more time.” So I first took the bus into Athens city
 center and did a hop-on hop-off tour along the coast.
 
+![Bus 1](/assets/images/2026-01/17/20.jpeg)
+![Bus 2](/assets/images/2026-01/17/21.jpeg)
+![Bus 3](/assets/images/2026-01/17/22.jpeg)
+
 I then had lunch at the rooftop restaurant Public, with a fantastic view of
 Syntagma Square.
+
+![Roof Top Bar](/assets/images/2026-01/17/23.jpeg)
 
 Since my tickets still hadn’t been confirmed, I decided to try my luck with the
 SEN hotline once again. The agent said everything was fine and that the tickets
