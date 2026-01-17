@@ -22,9 +22,9 @@ arguing any further.
 
 Specifically, I wanted to book the following connections:
 
-JAN 18 LH 1757 ATH–MUC 06:35–08:10
-JAN 18 LH 109 MUC–FRA 17:00–18:00
-JAN 19 LH 462 FRA–AMM 16:40–22:55 – new: 09:00–15:15
+JAN 18 LH 1757 ATH–MUC 06:35–08:10<br>
+JAN 18 LH 109 MUC–FRA 17:00–18:00<br>
+JAN 19 LH 462 FRA–AMM 16:40–22:55 – new: 09:00–15:15<br>
 
 Of course, the tickets hadn’t been issued this morning. “Okay,” I thought,
 “give ticketing a bit more time.” So I first took the bus into Athens city
@@ -55,10 +55,9 @@ issue. She immediately said she needed to talk to her supervisor. Hopefully not
 the same one as at lunchtime, I thought. After a while, she came back with
 helpful information, and the problem could then be resolved fairly quickly.
 
-For whatever reason, Lufthansa only has the updated departure times for
+For whatever reason, Lufthansa only had the updated departure times for
 FRA–AMM–FRA in the system for the very next day. For all subsequent days—even
-those already confirmed as schedule-change days—the old times are still in the
-system.
+those already confirmed as schedule-change days—the old times are still there.
 
 In concrete terms for my case:
 
@@ -67,11 +66,11 @@ January 18 at 4:40 pm so that it is then automatically changed to January 19 at
 9:00 am the next day. However, since my arrival in FRA from MUC is only at 6:00
 pm, the ticket cannot be issued—even though the actual departure doesn’t take
 place until a day later. To solve the problem, I therefore need to arrive in
-FRA, including MCT, no later than around 3:25 pm. After we adjusted the MUC–FRA
-flight accordingly, with arrival in FRA now at 3:00 pm, the ticket was issued
-within 15 minutes. The agent even stayed on the line with me until ticketing
-had processed the request. That was a first for me, but she was confident the
-issuance would happen within 10 minutes.
+FRA, also having the minimum connection time (MCT) in mind, no later than 3:25
+pm. After we adjusted the MUC–FRA flight accordingly, with arrival in FRA now
+at 3:00 pm, the ticket was issued within 15 minutes. The agent even stayed on
+the line with me until ticketing had processed the request. She was confident
+the issuance would happen within 10 minutes.
 
 This whole drama once again shows just how wildly different the competence
 levels of the hotline agents are—and how broken Lufthansa’s IT really is. I

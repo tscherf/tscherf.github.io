@@ -7,8 +7,8 @@ tags: travel lufthansa miles jordan dubai egypt
 ---
 
 Lufthansa has now confirmed that the departure times for both LH692 (FRA–AMM)
-and LH693 (AMM–FRA) have been changed through and including Monday so that they
-operate exclusively during daytime.
+and LH693 (AMM–FRA) have been changed till Monday so that they operate
+exclusively during daytime.
 
 ![Flights 1](/assets/images/2026-01/17/4.jpeg)
 
@@ -27,8 +27,8 @@ For now, I’m flying to ATH and will see how things develop. I may rebook the
 second ticket so that I do ATH–MUC–FRA on Sunday and then take FRA–AMM
 comfortably on Monday morning.
 
-For the moment, it’s off on LX 1027 on DUS–ZRH with an 8-year-old A220
-(HB-JCF). Later on, LX 1338 on ZRH–ATH with a 28-year-old A320 (HB-IJR).
+For now I'm going to board LX 1027 to get from DUS to ZRH with an 8-year-old
+A220 (HB-JCF). Later on, LX 1338 on ZRH–ATH with a 28-year-old A320 (HB-IJR).
 
 ![Flights 2](/assets/images/2026-01/17/5.jpeg)
 

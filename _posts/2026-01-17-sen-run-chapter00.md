@@ -11,7 +11,7 @@ and of earning as many P/QP as possible by no later than the end of February
 2026.
 
 The following routing is what came out of it (at this point, once again as
-always, many thanks to Ulli for the booking):
+always, many thanks to Ulli for booking all these crazy flights):
 
 DUS–ZRH–ATH–MUC–FRA–AMM–FRA–ATH–MUC–FRA–AMM–CAI–DXB–CAI–AMM–FRA–FCO–ATH–ZRH–DUS
 

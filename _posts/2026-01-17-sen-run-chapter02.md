@@ -7,11 +7,11 @@ tags: travel lufthansa miles jordan dubai egypt
 ---
 
 Boarding in DUS started on time and, despite a completely full aircraft, we
-headed off toward ZRH with only a few minutes’ delay.
+headed off toward ZRH with only a few minutes delay.
 
 Before departure, the captain pointed out that Zurich was covered by a thick
-cloud layer and that there was a good chance we might have to do a few holding
-patterns before landing.
+cloud layer and that there was a good chance we might have to do a few extra
+rounds before landing.
 
 ![View 1](/assets/images/2026-01/17/8.jpeg)
 ![View 2](/assets/images/2026-01/17/9.jpeg)
@@ -53,15 +53,15 @@ with carry-on only, it worked out perfectly. The drive to the hotel takes about
 
 The hotel itself is in a quiet location. There’s not much to do around here,
 but that’s fine—I really just want to sleep anyway. My room is clean and
-perfectly adequate in size for one night at a time.
+perfectly adequate in size for my one night stays.
 
 ![Hotel 1](/assets/images/2026-01/17/17.jpeg)
 ![Hotel 2](/assets/images/2026-01/17/18.jpeg)
 ![Hotel 3](/assets/images/2026-01/17/19.jpeg)
 
-I’ve now canceled the ticket for tomorrow’s AMM day trip. With the new
-schedule, the routing simply wouldn’t have worked, and I don’t want to force
-it. It’s still early in the year after all. 😊
+Finally - I’ve now canceled the ticket for tomorrow’s AMM day trip. With the
+new schedule, the routing simply wouldn’t have worked, and I don’t want to
+force it. It’s still early in the year after all. 😊
 
 I would like to move the second AMM ticket one day earlier to at least have a
 bit more time on site, but unfortunately the change to the departure times for
@@ -73,5 +73,4 @@ changed times hours ago. How can it be that LH still doesn’t have the
 information in the system? I’ll try again later.
 
 Tomorrow I’ll definitely be staying in ATH for now. How things continue on
-Sunday I hope to find out soon, once LH has updated its system. 🙄
-
+Sunday I hope to find out soon, once LH has updated their system. 🙄
