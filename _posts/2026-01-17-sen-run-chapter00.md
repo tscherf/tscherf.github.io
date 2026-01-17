@@ -19,27 +19,27 @@ DUS–ZRH–ATH–MUC–FRA–AMM–FRA–ATH–MUC–FRA–AMM–CAI–DXB–CA
 
 I will then fly four tickets within 8 days in the following order:
 
-DUS–ZRH–ATH
+DUS–ZRH–ATH<br>
 One night at the Holiday Inn Athens.
 
-ATH–MUC–FRA–AMM–FRA–ATH
+ATH–MUC–FRA–AMM–FRA–ATH<br>
 Day trip and back, for one night at the Holiday Inn Athens.
 
-ATH–MUC–FRA–AMM
+ATH–MUC–FRA–AMM<br>
 2 nights at the Hilton Amman.
 1 day of sightseeing in Amman before continuing the next day on the following route:
 
-AMM–CAI–DXB–CAI–AMM
+AMM–CAI–DXB–CAI–AMM<br>
 One night at the Hampton Inn Dubai Airport.
 
-DXB–CAI–AMM
+DXB–CAI–AMM<br>
 2 nights at the Radisson Blu Amman.
 Trip to the Dead Sea, Nebo & Madaba.
 
-AMM–FRA–FCO–ATH
+AMM–FRA–FCO–ATH<br>
 Back again to the Holiday Inn Athens for one night.
 
-ATH–ZRH–DUS
+ATH–ZRH–DUS<br>
 Heading home to see what +1 has rearranged or repainted in the house.
 
 ![Route 1](/assets/images/2026-01/17/1.jpg)

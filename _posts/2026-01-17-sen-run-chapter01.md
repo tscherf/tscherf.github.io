@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mileage Run - Jan 2026 - Chapter 00"
+title: "Mileage Run - Jan 2026 - Chapter 01"
 date: 2026-01-17
 categories: [Travel, Flights]
 tags: travel lufthansa miles jordan dubai egypt
