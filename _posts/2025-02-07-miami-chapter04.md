@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Miami/FL - Transatlantic NCL - Feb 2025 - Chapter 04"
+title: "Miami/FL - Transatlantic NCL Breakaway - Feb 2025 - Chapter 04"
 date: 2025-02-07
 categories: [Travel, Cruises]
 tags: travel miami ncl
