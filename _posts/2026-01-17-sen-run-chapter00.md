@@ -6,8 +6,6 @@ categories: [Travel, Flights]
 tags: travel lufthansa miles jordan dubai egypt
 ---
 
-Chapter 0
-
 I have set myself the goal of renewing my SEN status before it expires in 02/26
 and of earning as many P/QP as possible by no later than the end of February
 2026.

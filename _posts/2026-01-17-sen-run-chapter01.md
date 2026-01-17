@@ -6,8 +6,6 @@ categories: [Travel, Flights]
 tags: travel lufthansa miles jordan dubai egypt
 ---
 
-Chapter 01
-
 Lufthansa has now confirmed that the departure times for both LH692 (FRA–AMM)
 and LH693 (AMM–FRA) have been changed through and including Monday so that they
 operate exclusively during daytime.
