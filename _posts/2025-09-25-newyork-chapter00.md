@@ -1,0 +1,13 @@
+---
+layout: post
+title: "New York - Bermuda NCL Aqua - September 2025 - Chapter 00"
+date: 2025-09-25
+categories: [Travel, Cruises]
+tags: travel newyork ncl bermuda
+---
+
+NCL Aqua route:
+![NCL Aqua](/assets/images/2025-09/25/ncl-1.jpeg)
+
+Trip report tbd...
+
