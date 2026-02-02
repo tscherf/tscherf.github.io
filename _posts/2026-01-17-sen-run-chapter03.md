@@ -12,7 +12,7 @@ wrong there.
 After I canceled one AMM ticket yesterday, I tried several times to rebook my
 second ticket to move all flights one day earlier. On every single call to the
 SEN hotline, I was told that a rebooking wasn’t possible because the old times
-(4:40 pm instead of 9:00 am) were still in the system for the FRA–AMM sector.
+(4:40 pm instead of 9:00 am) were still in the system for the FRA–AMM flight.
 
 When I made another attempt shortly before midnight, the friendly agent on the
 hotline said that the issue was known and that she would simply process the
@@ -59,7 +59,7 @@ For whatever reason, Lufthansa only had the updated departure times for
 FRA–AMM–FRA in the system for the very next day. For all subsequent days—even
 those already confirmed as schedule-change days—the old times are still there.
 
-In concrete terms for my case:
+So basically for my case it means:
 
 If I want to fly to AMM on January 19, the FRA–AMM flight has to be booked for
 January 18 at 4:40 pm so that it is then automatically changed to January 19 at
