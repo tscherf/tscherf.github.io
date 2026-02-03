@@ -2,6 +2,7 @@
 layout: post
 title: "bootc, OpenAudit, Stow and sudo logging articles are now online"
 date: 2025-04-01
+categories: [Tech, Articles]
 tags: [articles]
 ---
 
